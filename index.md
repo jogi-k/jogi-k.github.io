@@ -16,3 +16,9 @@ Han Solos most famous cite is :
   
 (That's the answer to princess Leia, when she told him that she loves him)
 
+
+## Han Solo Picture
+
+<img src="https://cdn.icon-icons.com/icons2/193/PNG/256/Han_Solo_02_23267.png"/>
+
+That's how he looks like. (Image free for personal use from https://icon-icons.com/icon/han-solo/23267 ) 
