@@ -9,6 +9,10 @@ Han Solo is an intergalactical smuggler in the Star-Wars World.
 * It is called : Millenium Falcon
 * His friend is Chewbacca, a Wookiee
 * He starts also being friend with Luke Skywalker, another hero in the Star-Wars universe
-* His most famous cite is : " I know "  
-(That's the answer to princess Leia, when she tolds him that she loves him)
+
+Han Solos most famous cite is : 
+
+> I know
+  
+(That's the answer to princess Leia, when she told him that she loves him)
 
