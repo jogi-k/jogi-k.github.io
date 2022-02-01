@@ -2,5 +2,6 @@
 
 See e.g. 
 
-[Microcontrollers](micro-controller-slides/)
+* [Microcontrollers Introduction](micro-controller-slides/)
+* [Microcontrollers Part 2](micro-controllers-part2/)
 
